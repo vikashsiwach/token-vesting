@@ -1,0 +1,1 @@
+/Users/vikashsiwach/solana/token-vesting/anchor/target/sbpf-solana-solana/release/tokenvesting.so: /Users/vikashsiwach/solana/token-vesting/anchor/programs/tokenvesting/src/lib.rs
